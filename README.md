@@ -1,2 +1,2 @@
 # Toys
-Stupid tests and toys
+Stupid tests and toys.
